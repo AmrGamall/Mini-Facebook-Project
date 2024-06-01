@@ -1,0 +1,670 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ITI\\facebook-main\\facebook-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|E:\\ITI\\facebook-main\\facebook-main\\minifacebook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|E:\\ITI\\facebook-main\\facebook-main\\minifacebook\\views\\facebookhome\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\views\\facebookhome\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|E:\\ITI\\facebook-main\\facebook-main\\minifacebook\\views\\facebookhome\\_postcardpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\views\\facebookhome\\_postcardpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|e:\\iti\\facebook-main\\facebook-main\\minifacebook\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|e:\\iti\\facebook-main\\facebook-main\\minifacebook\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|e:\\iti\\facebook-main\\facebook-main\\minifacebook\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|e:\\iti\\facebook-main\\facebook-main\\minifacebook\\view models\\userinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\view models\\userinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|e:\\iti\\facebook-main\\facebook-main\\minifacebook\\view models\\registerationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\view models\\registerationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|E:\\ITI\\facebook-main\\facebook-main\\minifacebook\\view models\\nanbarmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\view models\\nanbarmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|E:\\ITI\\facebook-main\\facebook-main\\minifacebook\\view models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\view models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|E:\\ITI\\facebook-main\\facebook-main\\minifacebook\\view models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\view models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|E:\\ITI\\facebook-main\\facebook-main\\minifacebook\\view models\\changepasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\view models\\changepasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|E:\\ITI\\facebook-main\\facebook-main\\minifacebook\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|E:\\ITI\\facebook-main\\facebook-main\\minifacebook\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|e:\\iti\\facebook-main\\facebook-main\\minifacebook\\models\\facebookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\models\\facebookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|e:\\iti\\facebook-main\\facebook-main\\minifacebook\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|E:\\ITI\\facebook-main\\facebook-main\\minifacebook\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|e:\\iti\\facebook-main\\facebook-main\\minifacebook\\views\\shared\\_navbarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\views\\shared\\_navbarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|E:\\ITI\\facebook-main\\facebook-main\\minifacebook\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|E:\\ITI\\facebook-main\\facebook-main\\minifacebook\\views\\profile\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\views\\profile\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|E:\\ITI\\facebook-main\\facebook-main\\minifacebook\\views\\profile\\getprofilebyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\views\\profile\\getprofilebyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|E:\\ITI\\facebook-main\\facebook-main\\minifacebook\\views\\profile\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\views\\profile\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|E:\\ITI\\facebook-main\\facebook-main\\minifacebook\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|E:\\ITI\\facebook-main\\facebook-main\\minifacebook\\controllers\\facebookhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\controllers\\facebookhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|E:\\ITI\\facebook-main\\facebook-main\\minifacebook\\views\\facebookhome\\profiletest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\views\\facebookhome\\profiletest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|E:\\ITI\\facebook-main\\facebook-main\\minifacebook\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|E:\\ITI\\facebook-main\\facebook-main\\minifacebook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|E:\\ITI\\facebook-main\\facebook-main\\minifacebook\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|E:\\ITI\\facebook-main\\facebook-main\\minifacebook\\views\\profile\\updateinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\views\\profile\\updateinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|E:\\ITI\\facebook-main\\facebook-main\\minifacebook\\repository\\ihomeinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\repository\\ihomeinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|E:\\ITI\\facebook-main\\facebook-main\\minifacebook\\repository\\iaccountinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\repository\\iaccountinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|E:\\ITI\\facebook-main\\facebook-main\\minifacebook\\wwwroot\\css\\profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\wwwroot\\css\\profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|E:\\ITI\\facebook-main\\facebook-main\\minifacebook\\wwwroot\\css\\navregestier.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\wwwroot\\css\\navregestier.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|E:\\ITI\\facebook-main\\facebook-main\\minifacebook\\views\\setting\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\views\\setting\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|E:\\ITI\\facebook-main\\facebook-main\\minifacebook\\wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|E:\\ITI\\facebook-main\\facebook-main\\minifacebook\\minifacebook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:minifacebook\\minifacebook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Migrations\\20240420180517_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:miniFacebook\\Migrations\\20240420180517_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Migrations\\20240420224659_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:miniFacebook\\Migrations\\20240420224659_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Migrations\\20240422231240_v11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E90644C-E8E7-4877-AEEF-2819F56B05BF}|miniFacebook\\miniFacebook.csproj|solutionrelative:miniFacebook\\Migrations\\20240422231240_v11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "miniFacebook\\Views\\Account\\Index.cshtml",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "miniFacebook\\Views\\Account\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T08:41:33.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "miniFacebook\\Views\\Account\\Register.cshtml",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "miniFacebook\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T08:19:07.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "miniFacebook\\Views\\Account\\Login.cshtml",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "miniFacebook\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAC8AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T08:07:23.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserInfoModel.cs",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\view Models\\UserInfoModel.cs",
+              "RelativeDocumentMoniker": "miniFacebook\\view Models\\UserInfoModel.cs",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\view Models\\UserInfoModel.cs",
+              "RelativeToolTip": "miniFacebook\\view Models\\UserInfoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T08:02:49.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterationModel.cs",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\view Models\\RegisterationModel.cs",
+              "RelativeDocumentMoniker": "miniFacebook\\view Models\\RegisterationModel.cs",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\view Models\\RegisterationModel.cs",
+              "RelativeToolTip": "miniFacebook\\view Models\\RegisterationModel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T08:02:44.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_postCardPartial.cshtml",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Views\\FacebookHome\\_postCardPartial.cshtml",
+              "RelativeDocumentMoniker": "miniFacebook\\Views\\FacebookHome\\_postCardPartial.cshtml",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Views\\FacebookHome\\_postCardPartial.cshtml",
+              "RelativeToolTip": "miniFacebook\\Views\\FacebookHome\\_postCardPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T11:37:17.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Views\\FacebookHome\\Home.cshtml",
+              "RelativeDocumentMoniker": "miniFacebook\\Views\\FacebookHome\\Home.cshtml",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Views\\FacebookHome\\Home.cshtml",
+              "RelativeToolTip": "miniFacebook\\Views\\FacebookHome\\Home.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T21:29:29.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\appsettings.json",
+              "RelativeDocumentMoniker": "miniFacebook\\appsettings.json",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\appsettings.json",
+              "RelativeToolTip": "miniFacebook\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-20T22:49:28.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "changePasswordModel.cs",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\view Models\\changePasswordModel.cs",
+              "RelativeDocumentMoniker": "miniFacebook\\view Models\\changePasswordModel.cs",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\view Models\\changePasswordModel.cs",
+              "RelativeToolTip": "miniFacebook\\view Models\\changePasswordModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T21:16:15.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "miniFacebook\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "miniFacebook\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T21:16:15.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Post.cs",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "miniFacebook\\Models\\Post.cs",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Models\\Post.cs",
+              "RelativeToolTip": "miniFacebook\\Models\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:57:05.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "facebookDbcontext.cs",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Models\\facebookDbcontext.cs",
+              "RelativeDocumentMoniker": "miniFacebook\\Models\\facebookDbcontext.cs",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Models\\facebookDbcontext.cs",
+              "RelativeToolTip": "miniFacebook\\Models\\facebookDbcontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T08:01:18.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "miniFacebook\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "miniFacebook\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T08:01:14.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeModel.cs",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\view Models\\HomeModel.cs",
+              "RelativeDocumentMoniker": "miniFacebook\\view Models\\HomeModel.cs",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\view Models\\HomeModel.cs",
+              "RelativeToolTip": "miniFacebook\\view Models\\HomeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T21:32:22.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\view Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "miniFacebook\\view Models\\LoginModel.cs",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\view Models\\LoginModel.cs",
+              "RelativeToolTip": "miniFacebook\\view Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T21:16:15.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NanbarModel.cs",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\view Models\\NanbarModel.cs",
+              "RelativeDocumentMoniker": "miniFacebook\\view Models\\NanbarModel.cs",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\view Models\\NanbarModel.cs",
+              "RelativeToolTip": "miniFacebook\\view Models\\NanbarModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T22:21:55.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_navbarpartial.cshtml",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Views\\Shared\\_navbarpartial.cshtml",
+              "RelativeDocumentMoniker": "miniFacebook\\Views\\Shared\\_navbarpartial.cshtml",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Views\\Shared\\_navbarpartial.cshtml",
+              "RelativeToolTip": "miniFacebook\\Views\\Shared\\_navbarpartial.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T15:57:47.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "miniFacebook\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "miniFacebook\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T08:25:43.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "miniFacebook\\Controllers\\ProfileController.cs",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "miniFacebook\\Controllers\\ProfileController.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAAAG8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T23:47:57.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_navbar.cshtml",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Views\\Profile\\_navbar.cshtml",
+              "RelativeDocumentMoniker": "miniFacebook\\Views\\Profile\\_navbar.cshtml",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Views\\Profile\\_navbar.cshtml",
+              "RelativeToolTip": "miniFacebook\\Views\\Profile\\_navbar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T03:10:28.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Applicationuser.cs",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Models\\Applicationuser.cs",
+              "RelativeDocumentMoniker": "miniFacebook\\Models\\Applicationuser.cs",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Models\\Applicationuser.cs",
+              "RelativeToolTip": "miniFacebook\\Models\\Applicationuser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T21:16:15.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "getprofilebyid.cshtml",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Views\\Profile\\getprofilebyid.cshtml",
+              "RelativeDocumentMoniker": "miniFacebook\\Views\\Profile\\getprofilebyid.cshtml",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Views\\Profile\\getprofilebyid.cshtml",
+              "RelativeToolTip": "miniFacebook\\Views\\Profile\\getprofilebyid.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T09:01:23.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "profile.cshtml",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Views\\Profile\\profile.cshtml",
+              "RelativeDocumentMoniker": "miniFacebook\\Views\\Profile\\profile.cshtml",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Views\\Profile\\profile.cshtml",
+              "RelativeToolTip": "miniFacebook\\Views\\Profile\\profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T21:16:14.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FacebookHomeController.cs",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Controllers\\FacebookHomeController.cs",
+              "RelativeDocumentMoniker": "miniFacebook\\Controllers\\FacebookHomeController.cs",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Controllers\\FacebookHomeController.cs",
+              "RelativeToolTip": "miniFacebook\\Controllers\\FacebookHomeController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAlwEIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T21:21:26.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "profiletest.cshtml",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Views\\FacebookHome\\profiletest.cshtml",
+              "RelativeDocumentMoniker": "miniFacebook\\Views\\FacebookHome\\profiletest.cshtml",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Views\\FacebookHome\\profiletest.cshtml",
+              "RelativeToolTip": "miniFacebook\\Views\\FacebookHome\\profiletest.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T02:46:55.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "miniFacebook\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "miniFacebook\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T23:19:12.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Program.cs",
+              "RelativeDocumentMoniker": "miniFacebook\\Program.cs",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Program.cs",
+              "RelativeToolTip": "miniFacebook\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAhwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T22:00:49.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20240422231240_v11.cs",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Migrations\\20240422231240_v11.cs",
+              "RelativeDocumentMoniker": "miniFacebook\\Migrations\\20240422231240_v11.cs",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Migrations\\20240422231240_v11.cs",
+              "RelativeToolTip": "miniFacebook\\Migrations\\20240422231240_v11.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T23:12:41.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "miniFacebook\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "miniFacebook\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T11:09:06.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "updateinfo.cshtml",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Views\\Profile\\updateinfo.cshtml",
+              "RelativeDocumentMoniker": "miniFacebook\\Views\\Profile\\updateinfo.cshtml",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Views\\Profile\\updateinfo.cshtml",
+              "RelativeToolTip": "miniFacebook\\Views\\Profile\\updateinfo.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T21:16:15.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IHomeInterface.cs",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Repository\\IHomeInterface.cs",
+              "RelativeDocumentMoniker": "miniFacebook\\Repository\\IHomeInterface.cs",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Repository\\IHomeInterface.cs",
+              "RelativeToolTip": "miniFacebook\\Repository\\IHomeInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T21:35:41.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20240420224659_v1.cs",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Migrations\\20240420224659_v1.cs",
+              "RelativeDocumentMoniker": "miniFacebook\\Migrations\\20240420224659_v1.cs",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Migrations\\20240420224659_v1.cs",
+              "RelativeToolTip": "miniFacebook\\Migrations\\20240420224659_v1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T22:46:59.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IAccountInterface.cs",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Repository\\IAccountInterface.cs",
+              "RelativeDocumentMoniker": "miniFacebook\\Repository\\IAccountInterface.cs",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Repository\\IAccountInterface.cs",
+              "RelativeToolTip": "miniFacebook\\Repository\\IAccountInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T21:16:51.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "profile.css",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\wwwroot\\css\\profile.css",
+              "RelativeDocumentMoniker": "miniFacebook\\wwwroot\\css\\profile.css",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\wwwroot\\css\\profile.css",
+              "RelativeToolTip": "miniFacebook\\wwwroot\\css\\profile.css",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-20T21:16:15.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20240420180517_new.cs",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Migrations\\20240420180517_new.cs",
+              "RelativeDocumentMoniker": "miniFacebook\\Migrations\\20240420180517_new.cs",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Migrations\\20240420180517_new.cs",
+              "RelativeToolTip": "miniFacebook\\Migrations\\20240420180517_new.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T21:16:15.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "navRegestier.css",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\wwwroot\\css\\navRegestier.css",
+              "RelativeDocumentMoniker": "miniFacebook\\wwwroot\\css\\navRegestier.css",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\wwwroot\\css\\navRegestier.css",
+              "RelativeToolTip": "miniFacebook\\wwwroot\\css\\navRegestier.css",
+              "ViewState": "AQIAAE4AAACA6KJLi34ewFoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-20T21:16:15.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "changePassword.cshtml",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Views\\Setting\\changePassword.cshtml",
+              "RelativeDocumentMoniker": "miniFacebook\\Views\\Setting\\changePassword.cshtml",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\Views\\Setting\\changePassword.cshtml",
+              "RelativeToolTip": "miniFacebook\\Views\\Setting\\changePassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T21:16:15.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Register.css",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\wwwroot\\css\\Register.css",
+              "RelativeDocumentMoniker": "miniFacebook\\wwwroot\\css\\Register.css",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\wwwroot\\css\\Register.css",
+              "RelativeToolTip": "miniFacebook\\wwwroot\\css\\Register.css",
+              "ViewState": "AQIAAFIAAAAAAgAII6AVwF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-20T21:16:15.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "miniFacebook.csproj",
+              "DocumentMoniker": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\miniFacebook.csproj",
+              "RelativeDocumentMoniker": "miniFacebook\\miniFacebook.csproj",
+              "ToolTip": "E:\\ITI\\facebook-main\\facebook-main\\miniFacebook\\miniFacebook.csproj",
+              "RelativeToolTip": "miniFacebook\\miniFacebook.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-20T21:16:15.62Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

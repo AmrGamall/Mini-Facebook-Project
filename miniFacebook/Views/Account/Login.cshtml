@@ -1,0 +1,63 @@
+﻿@model miniFacebook.view_Models.LoginModel
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+
+
+@* <h4>LoginModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Login">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-4">
+                <input type="submit" value="Login" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div> *@
+
+<div class="row justify-content-center wrapper">
+  
+    <div class="col-md-10 d-flex">
+        <img src="~/images/newLogin.png" width="420" class="me-5"/>
+        <form asp-action="Login">
+            <div class="infocard p-0 pt-1 pb-5" >
+                  <h3 class="text-center my-2 mb-4">Log in to Facebook</h3>
+                     
+            <div asp-validation-summary="ModelOnly" class="text-danger ms-5" ></div>
+            <div class="form-group mb-3">
+                @* <label asp-for="Email" class="control-label"></label> *@
+                <input asp-for="Email" class="form-control" placeholder="Email Address" />
+          
+            </div>
+                  <span asp-validation-for="Email" class="text-danger pb-5" style="margin-left:10vw;"></span>
+            <div class="form-group mb-3 pt-3">
+                @* <label asp-for="Password" class="control-label"></label> *@
+                <input asp-for="Password" class="form-control" placeholder="Password" />
+ 
+            </div>
+                <span asp-validation-for="Password" class="text-danger pb-4" style="margin-left:10vw;"></span>
+            <div class="form-group mt-4">
+                <input type="submit" value="Login" class="btn btn-primary px-4" />
+            </div>
+            </div>
+        </form>
+
+        </div>
+        </div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
